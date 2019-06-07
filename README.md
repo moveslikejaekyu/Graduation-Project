@@ -4,7 +4,7 @@ Here is my Graduation Project. The topic is "Develop model for predicting gentri
 
 ### 1. Final Presentation
 
-![FinalPresentation](FinalPresentation.pdf)
+ [FinalPresentation](FinalPresentation.pdf)
 
 
 </br>
@@ -12,9 +12,9 @@ Here is my Graduation Project. The topic is "Develop model for predicting gentri
 ### 2. Poster Session
  
 
-![Pannel](Pannel.pdf)
+ [Pannel](Pannel.pdf)
 
 
 ### 3. Awarded
 
-![Awarded](Awarded.pdf)
+ [Awarded](Awarded.pdf)
