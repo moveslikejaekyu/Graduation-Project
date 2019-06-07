@@ -4,7 +4,7 @@ Here is my Graduation Project. The topic is "Develop model for predicting gentri
 
 ### 1. Final Presentation
 
-![빅데이터&공간분석을 통한 젠트리피케이션 예측모델 개발](빅데이터&공간분석을 통한 젠트리피케이션 예측모델 개발(이재규).pdf)
+![FinalPresentation](FinalPresentation.pdf)
 
 
 </br>
@@ -12,9 +12,9 @@ Here is my Graduation Project. The topic is "Develop model for predicting gentri
 ### 2. Poster Session
  
 
-![빅데이터&공간분석을 통한 젠트리피케이션 예측모델 개발 판넬](빅데이터&공간분석을 통한 젠트리피케이션 예측모델 개발 판넬.pdf)
+![Pannel](Pannel.pdf)
 
 
 ### 3. Awarded
 
-![졸업작품 수상내용](졸업작품 수상내용.pdf)
+![Awarded](Awarded.pdf)
