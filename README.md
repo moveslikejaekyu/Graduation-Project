@@ -28,11 +28,11 @@ Even though there are regulations for increasing monthly pay super high, it does
 The worst thing is if Gentrification happen, the situation worsens at a rapid pace and became impossible to stop this with any solutions.</br>
  
  With these things, I thought if i collect big data concerned with Gentrification,
-    * 1. can analyse them with time-series 
-    * 2. can extract the regular pattern 
-    * 3. can predict Gentrification with the pattern - catch the beginning step of Gentrification  
-    * 4. can do preemptive defense before Gentrification gonna worse.
-    * 5. Finally prevent Gentrification and make win-win game for landlord and leaseholder
+   * 1.- can analyse them with time-series 
+   * 1.- can extract the regular pattern 
+   * 1.- can predict Gentrification with the pattern - catch the beginning step of Gentrification  
+   * 1.- can do preemptive defense before Gentrification gonna worse.
+   * 1.- Finally prevent Gentrification and make win-win game for landlord and leaseholder
     
  
  </br>
