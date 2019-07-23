@@ -21,12 +21,11 @@
 
 ### 3. Introdution
 </br>
-In these days, Gentrification becomes a very big & unsolvaable city problem. </br>
-The city experts said "There was no solution for Gentrification and also now". </br>
-Because it's a kinda natural capitalism problem and inevitable result of market principles. </br>
-Even though there are regulations for increasing monthly pay super high, it doesn't work well. </br>
-The worst thing is if Gentrification happen, </br>
-the situation worsens at a rapid pace and became impossible to stop this with any solutions.</br>
+In these days, Gentrification becomes a very big & unsolvaable city problem. 
+The city experts said "There was no solution for Gentrification and also now". 
+Because it's a kinda natural capitalism problem and inevitable result of market principles. 
+Even though there are regulations for increasing monthly pay super high, it doesn't work well.
+The worst thing is if Gentrification happen, the situation worsens at a rapid pace and became impossible to stop this with any solutions.</br>
  
  With these things, I thought if i collect big data concerned with Gentrification,
    * 1.- can analyse them with time-series 
