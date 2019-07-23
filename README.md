@@ -1,7 +1,7 @@
 # Graduation-Project
 
 ### 1. Project's Topic 
-     -> Develop model for predicting Gentrification with big-data &amp; spatial analysis
+     -> Develop model for predicting Gentrification with big-data & spatial analysis
 
 ### 2. Definition of Gentrification
 
@@ -27,11 +27,14 @@ Because it's a kinda natural capitalism problem and inevitable result of market 
 Even though there are regulations for increasing monthly pay super high, it doesn't work well. </br>
 The worst thing is if Gentrification happen, the situation worsens at a rapid pace and became impossible to stop this with any solutions.</br>
  
- With these things I thought if i collect big data concerned with Gentrification, </br>
- i can analyse them with time-series and extract the regular pattern. With this pattern, </br>
- i can predict Gentrification - catch the beginning step of Gentrification for preemptive defense. </br>
- Finally catching first step of it and doing kinda preemtive defense from goverment gonna prevent Gentrification </br>
- and make win-win game for landlord and leaseholder!</br>
+ With these things, I thought if i collect big data concerned with Gentrification,
+    * 1. can analyse them with time-series 
+    * 2. can extract the regular pattern 
+    * 3. can predict Gentrification with the pattern - catch the beginning step of Gentrification  
+    * 4. can do preemptive defense before Gentrification gonna worse.
+    * 5. Finally prevent Gentrification and make win-win game for landlord and leaseholder
+    
+ 
  </br>
  With this inspiration, i collected big data concerned with Gentrification, </br>
  analysed two areas with big-data & spatial analysis and made model for catching beginning step of Gentrification! </br>
