@@ -12,7 +12,7 @@
   - The process of changing the character of a neighborhood through the influx of more affluent residents and businesses</br>
 
  
- </br>With this definition, i rewrited my own definition for Gentrification to understand phenomenon easily.
+ With this definition, i rewrited my own definition for Gentrification to understand phenomenon easily.
  
      -> The leaseholder(poorer people) who made deteriorating area better & characteristic are expelled 
      and displaced to middle-class people because of super high raise of monthly pay by landlord. 
@@ -25,10 +25,10 @@ In these days, Gentrification becomes a very big & unsolvaable city problem. </b
 The city experts said "There was no solution for Gentrification and also now". </br>
 Because it's a kinda natural capitalism problem and inevitable result of market principles. </br>
 Even though there are regulations for increasing monthly pay super high, it doesn't work well. </br>
-The worst thing is if Gentrification happen, 
+The worst thing is if Gentrification happen, </br>
 the situation worsens at a rapid pace and became impossible to stop this with any solutions.</br>
- </br>
- </br>With these things, I thought if i collect big data concerned with Gentrification,
+ 
+ With these things, I thought if i collect big data concerned with Gentrification,
    * 1.- can analyse them with time-series 
    * 2.- can extract the regular pattern 
    * 3.- can predict Gentrification with the pattern - catch the beginning step of Gentrification  
