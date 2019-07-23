@@ -1,8 +1,8 @@
 # Graduation-Project
-</br>
+
 ### 1. Project's Topic 
      -> Develop model for predicting Gentrification with big-data &amp; spatial analysis
-</br>
+
 ### 2. Definition
 </br>
  * _Gentrification_.
@@ -16,7 +16,6 @@
      This area's character are gradually lost so people who are used to come do not come here anymore. 
      Finally the area are gonna deteriorated and both of them(landlord,leaseholder) become loser.  
 
-</br>
 ### 3. Introdution
 </br>
 In these days, Gentrification becomes a very big & unsolvaable city problem. The city experts said "There was no solution for Gentrification and also now". Because it's a kinda natural capitalism problem and inevitable result of market principles. Even though there are regulations for increasing monthly pay super high, it doesn't work well. The worst thing is if Gentrification happen, the situation worsens at a rapid pace and became impossible to stop this with any solutions.
