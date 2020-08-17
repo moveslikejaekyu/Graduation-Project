@@ -1,6 +1,5 @@
 # Graduation-Project
 
-![PosterSession)kyu](졸작_포스터.JPG)
 
 ### 1. Project's Topic 
      -> Develop model for predicting Gentrification with big-data & spatial analysis
@@ -48,13 +47,13 @@ If you feel interested with my own definition and introduction, i think you gonn
 
  *  [FinalPresentation](FinalPresentation.pdf)
 
-
 ### Poster Session
 
  *  [Pannel](Pannel.pdf)
 
-
 ### Awarded
 
  *  [Awarded](Awarded.pdf)
+ 
+ ![PosterSession)kyu](졸작_포스터.JPG)
 
