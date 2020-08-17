@@ -1,5 +1,7 @@
 # Graduation-Project
 
+[PosterSession)kyu](졸작_포스터.JPG)
+
 ### 1. Project's Topic 
      -> Develop model for predicting Gentrification with big-data & spatial analysis
 </br>
